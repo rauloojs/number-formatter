@@ -1,6 +1,6 @@
 {
   "name": "rawl/number-formatter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "NPM package example",
   "main": "index.js",
   "scripts": {
