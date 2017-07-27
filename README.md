@@ -7,11 +7,11 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @rawl/number-formatter`
+  `npm install rawl-number-formatter`
 
 ## Usage
 
-    var numFormatter = require('@rawl/number-formatter');
+    var numFormatter = require('rawl-number-formatter');
 
     var formattedNum = numFormatter(35666);
 
