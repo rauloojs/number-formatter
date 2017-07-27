@@ -1,5 +1,7 @@
 Number Formatter
 =========
+[![Build Status](https://travis-ci.org/rauloojs/number-formatter.svg?branch=master)](https://travis-ci.org/rauloojs/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/rauloojs/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/rauloojs/number-formatter?branch=master)
 
 A small library that adds commas to numbers
 
