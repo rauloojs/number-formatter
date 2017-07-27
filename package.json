@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter-example",
+  "name": "@rawl/number-formatter",
   "version": "0.0.2",
   "description": "NPM package example",
   "main": "index.js",
