@@ -1,0 +1,33 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "NPM package example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rauloojs/number-formatter.git"
+  },
+  "keywords": [
+    "example",
+    "node",
+    "npm",
+    "mocha",
+    "js"
+  ],
+  "author": "Raúl Ojeda <rauloojs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rauloojs/number-formatter/issues"
+  },
+  "homepage": "https://github.com/rauloojs/number-formatter#readme",
+  "engines": {
+    "node": ">=6.11.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
