@@ -1,6 +1,6 @@
 {
   "name": "number-formatter-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NPM package example",
   "main": "index.js",
   "scripts": {
